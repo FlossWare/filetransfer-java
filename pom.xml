@@ -6,7 +6,7 @@
 
     <groupId>org.flossware</groupId>
     <artifactId>jfiletransfer</artifactId>
-    <version>1.3</version>
+    <version>1.4</version>
     <packaging>jar</packaging>
 
     <name>JFileTransfer</name>
