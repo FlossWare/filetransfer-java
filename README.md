@@ -19,7 +19,7 @@ Universal file transfer abstraction library for Java. Provides a simple, unified
 ```xml
 <dependency>
     <groupId>org.flossware</groupId>
-    <artifactId>jfiletransfer</artifactId>
+    <artifactId>filetransfer-java</artifactId>
     <version>1.0</version>
 </dependency>
 
@@ -313,8 +313,8 @@ This project uses **X.Y semantic versioning** (e.g., 1.0, 1.1, 2.0). Versions ar
 ## Building from Source
 
 ```bash
-git clone https://github.com/FlossWare/jfiletransfer.git
-cd jfiletransfer
+git clone https://github.com/FlossWare/filetransfer-java.git
+cd filetransfer-java
 mvn clean install
 ```
 
